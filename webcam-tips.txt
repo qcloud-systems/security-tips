@@ -1,0 +1,14 @@
+How to tell if your webcam has been hacked
+Check the webcam indicator light:  Is it on, even though you aren’t using the webcam? This could be a sign of a hacked webcam, or it could be connected to a browser extension.
+
+Check your open apps and browser extensions, deactivating one at a time to find a potential suspect.
+
+Then, see if your webcam process is running — if it is, reboot your device to check if your webcam activates automatically. Any sign of unauthorized use could mean that you have a hacked webcam.
+
+If the process isn’t running, try activating the webcam yourself. Do you receive an error message stating that it’s already in use? Don’t rely on the indicator light as a foolproof signal — these lights can be configured to remain off even when the webcam is in use. Many webcam hackers will do just this.
+
+Look for saved audio and video recordings in your webcam folder. If you find any that you didn’t record yourself, you might have a hacked webcam.
+
+Use a tool such as Avast Hack Check to determine whether your email address and any other accounts that use it have been compromised in a data breach. A hacker who has your login credentials can worm their way into your personal accounts and/or devices.
+
+Reference: https://www.avast.com/c-webcam-security
