@@ -1,1 +1,1 @@
-### Text files for home security tips
+### home server & application hardening tips
