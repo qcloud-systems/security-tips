@@ -1,1 +1,1 @@
-### home server & application hardening tips
+### home server & application security tips
